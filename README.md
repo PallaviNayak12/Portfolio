@@ -12,7 +12,6 @@ A responsive personal portfolio website built using **HTML, CSS, and JavaScript*
 - Contact section with quick access to email and LinkedIn  
 
 ---
-
 ## 📸 Preview
 
 ### 🏠 Homepage
