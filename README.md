@@ -2,7 +2,7 @@
 
 A responsive personal portfolio website built using **HTML, CSS, and JavaScript** to showcase my skills, projects, resume, and contact details.
 
----
+--- 
 ## 🚀 Features 
 - Clean and responsive design  
 - Smooth navigation bar with sections (About, Skills, Projects, Resume, Contact)                       
