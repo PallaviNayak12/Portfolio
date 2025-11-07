@@ -27,5 +27,5 @@ A responsive personal portfolio website built using **HTML, CSS, and JavaScript*
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript 
+- **Frontend:** HTML5, CSS3, JavaScript  
 - **Tools:** VS Code 
