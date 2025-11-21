@@ -8,7 +8,7 @@ A responsive personal portfolio website built using **HTML, CSS, and JavaScript*
 - Smooth navigation bar with sections (About, Skills, Projects, Resume, Contact)                         
 - Project showcase with links to GitHub repositories                                                                                
 - Resume preview & download option 
-- Contact section with quick access to email and LinkedIn   
+- Contact section with quick access to email and LinkedIn    
 ---
 ## 📸 Preview
 
