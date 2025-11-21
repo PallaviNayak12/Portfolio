@@ -12,7 +12,7 @@ A responsive personal portfolio website built using **HTML, CSS, and JavaScript*
 ---
 ## 📸 Preview
 
-### 🏠 Homepage                  
+### 🏠 Homepage                   
 ![Homepage Screenshot](HomePage.png)
 
 ### 💻 Projects Section
